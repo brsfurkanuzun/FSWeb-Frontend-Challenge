@@ -1,0 +1,158 @@
+{
+  "tr": {
+    "nav": {
+      "brand": "Furkan Uzun",
+      "theme": "Tema",
+      "language": "Ingilizce'ye gec",
+      "links": {
+        "skills": "Yetenekler",
+        "projects": "Projeler",
+        "hire": "Beni ise al"
+      }
+    },
+    "hero": {
+      "label": "Furkan Uzun",
+      "title": "Yaratici dusunen",
+      "title2": "minimalizm tutkunu",
+      "subtitle": "Merhaba, ben Furkan. Full-stack gelistiriciyim. Guclu ve olceklenebilir frontend urunleri gelistirecek bir yazilimci ariyorsan tanisalim.",
+      "ctaPrimary": "Beni ise al",
+      "ctaSecondary": "GitHub",
+      "ctaThird": "LinkedIn",
+      "imageAlt": "Bilgisayar basinda calisan gelistirici"
+    },
+    "skillsTitle": "Yetenekler",
+    "skills": [
+      {
+        "name": "Java Script",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia."
+      },
+      {
+        "name": "React.Js",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia."
+      },
+      {
+        "name": "Node.Js",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia."
+      }
+    ],
+    "profileTitle": "Profil",
+    "profileTable": [
+      { "label": "Dogum tarihi", "value": "01.07.1996" },
+      { "label": "Ikamet Sehir", "value": "Istanbul" },
+      { "label": "Egitim Durumu", "value": "Istanbul Bilgi Universitesi, 2021" },
+      { "label": "Tercih Ettigi Rol", "value": "Full-Stack Developer" }
+    ],
+    "aboutTitle": "Hakkimda",
+    "aboutText": "4+ yildir full-stack developer olarak backend ve frontend tarafinda uctan uca urunler gelistiriyorum. Backend tarafta Java Spring Boot ile REST/SOAP servisleri, API entegrasyonlari ve microservice mimarisi uzerinde aktif calistim.\n\nFrontend tarafta React ile olceklenebilir component yapilari, temiz veri akisi ve responsive arayuzler gelistiriyorum. Amacim, guvenilir backend servisleri ile hizli ve kullanici odakli frontend deneyimini ayni urunde birlestirmek.",
+    "projectsTitle": "Projeler",
+    "projects": [
+      {
+        "name": "Workintech",
+        "description": "Workintech surecinde gelistirdigim frontend projelerinde React tabanli component mimarisi, state yonetimi ve responsive UI yaklasimini kullandim. Proje boyunca temiz kod, semantik yapi ve kullanici deneyimi odaklandigim temel alanlar oldu.",
+        "tags": ["react", "redux", "axios"],
+        "image": "design-image-1"
+      },
+      {
+        "name": "Random Jokes",
+        "description": "Kisisel portfolyo projemde Figma ile arayuz tasarladim, React ile component yapisini kurdum ve props/state veri akislarini yonettim. Tasarim tutarliligi, yeniden kullanilabilirlik ve performans odakli bir yapi hedefledim.",
+        "tags": ["react", "redux", "axios"],
+        "image": "design-image-2"
+      },
+      {
+        "name": "Journey",
+        "description": "BilgiLife projesinde Unity 3D ile kampusun sanal deneyimini sunan bir uygulama gelistirdim. Blender ve SketchUp ile modellenen alanlari etkilesimli hale getirerek donem projesi odulu alan urunun gelisiminde yer aldim.",
+        "tags": ["react", "redux", "axios"],
+        "image": "design-image-3"
+      }
+    ],
+    "projectLinks": {
+      "github": "GitHub",
+      "live": "Siteyi Gor"
+    },
+    "footerTitle": "Bir sonraki urununde birlikte calisalim.",
+    "email": "barisfurkanuz@gmail.com",
+    "footerLinks": [
+      { "label": "Kisisel Blog", "url": "#" },
+      { "label": "GitHub", "url": "https://github.com/brsfurkanuzun" },
+      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/barisfurkanuzun" }
+    ]
+  },
+  "en": {
+    "nav": {
+      "brand": "Furkan Uzun",
+      "theme": "Theme",
+      "language": "Switch to Turkish",
+      "links": {
+        "skills": "Skills",
+        "projects": "Projects",
+        "hire": "Hire me"
+      }
+    },
+    "hero": {
+      "label": "Furkan Uzun",
+      "title": "Creative thinker",
+      "title2": "Minimalism lover",
+      "subtitle": "Hi, I'm Furkan. I'm a full-stack developer. If you are looking for a developer who can craft solid and scalable frontend products with great user experiences, let's shake hands.",
+      "ctaPrimary": "Hire me",
+      "ctaSecondary": "Github",
+      "ctaThird": "LinkedIn",
+      "imageAlt": "Developer working on laptop"
+    },
+    "skillsTitle": "Skills",
+    "skills": [
+      {
+        "name": "Java Script",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia."
+      },
+      {
+        "name": "React.Js",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia."
+      },
+      {
+        "name": "Node.Js",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Veniam aut, odit laborum aliquam voluptatum nisi mollitia."
+      }
+    ],
+    "profileTitle": "Profile",
+    "profileTable": [
+      { "label": "Date of birth", "value": "01.07.1996" },
+      { "label": "City", "value": "Istanbul" },
+      { "label": "Education", "value": "Istanbul Bilgi University, 2021" },
+      { "label": "Preferred Role", "value": "Full-Stack Developer" }
+    ],
+    "aboutTitle": "About Me",
+    "aboutText": "I am a full-stack developer with 4+ years of hands-on experience building end-to-end products across backend and frontend. On the backend side, I have worked extensively with Java Spring Boot on REST/SOAP services, API integrations and microservice architecture.\n\nOn the frontend side, I build scalable React component structures with clean data flow and responsive user interfaces. My focus is to combine reliable backend services with fast, user-centered frontend experiences in a single product.",
+    "projectsTitle": "Projects",
+    "projects": [
+      {
+        "name": "Workintech",
+        "description": "In my Workintech projects, I focused on React-based component architecture, state management and responsive UI implementation. Clean code, semantic structure and user experience were my key priorities throughout development.",
+        "tags": ["react", "redux", "axios"],
+        "image": "design-image-1"
+      },
+      {
+        "name": "Random Jokes",
+        "description": "In my personal portfolio project, I designed the interface in Figma, built the component structure in React and managed data flow with props/state. I prioritized design consistency, reusability and performance.",
+        "tags": ["react", "redux", "axios"],
+        "image": "design-image-2"
+      },
+      {
+        "name": "Journey",
+        "description": "In the BilgiLife project, I helped develop a Unity 3D application that provides a virtual campus experience. I contributed to making modeled environments interactive in a term project that received an award.",
+        "tags": ["react", "redux", "axios"],
+        "image": "design-image-3"
+      }
+    ],
+    "projectLinks": {
+      "github": "Github",
+      "live": "View Site"
+    },
+    "footerTitle": "Let's work together on your next product.",
+    "email": "barisfurkanuz@gmail.com",
+    "footerLinks": [
+      { "label": "Personal Blog", "url": "#" },
+      { "label": "GitHub", "url": "https://github.com/brsfurkanuzun" },
+      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/barisfurkanuzun" }
+    ]
+  }
+}
